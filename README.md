@@ -1,2 +1,3 @@
-# ai-chatbot
-Interactive AI chatbot for intelligent and natural conversational responses.
+# AI Chatbot
+
+An interactive AI chatbot built with Python and Hugging Face.
