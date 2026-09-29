@@ -2,7 +2,7 @@ from huggingface_hub import InferenceClient
 
 client = InferenceClient()
 
-print("AI Chatbot")
+print("Vandana's Ai Chatbot")
 print("Type 'exit' to stop")
 
 while True:
